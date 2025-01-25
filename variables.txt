@@ -1,0 +1,24 @@
+font family: Roboto
+
+
+bg main: #FFFFFF
+
+
+bg second: #000
+
+
+bg search bar: #212121
+
+
+text color main: #3C2721
+
+
+color icons and views total: #BCBCBC
+
+
+bg button active  : #396EC1
+
+bg button normal: #E0DFDF
+
+
+like button color: #00BD8F
